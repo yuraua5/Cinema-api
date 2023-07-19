@@ -1,4 +1,4 @@
-# Cinema API
+# ScreenSquad API
 
 Api service for cinema management written on DRF
 
